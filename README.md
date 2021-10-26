@@ -11,11 +11,6 @@ This project is divided in 3 sections:
 3. Running a web application which can show model results in real time.
 
 
-# Installation
-To clone the git repository:
-
-git clone https://github.com/abg3/Disaster-Response-ML-Project.git
-
 # Running the application
 
 You can run the following commands in the project's directory to set up the database, train the model and save the model.
