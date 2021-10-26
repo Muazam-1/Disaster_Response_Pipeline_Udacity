@@ -10,14 +10,6 @@ This project is divided in 3 sections:
 2. Build a machine learning pipeline that can classify tweet text messages into 36 different categories.
 3. Running a web application which can show model results in real time.
 
-# Dependencies
-
-- Python 3.5+
-- Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
-- Natural Language Process Libraries: NLTK
-- SQLlite Database Libraqries: SQLalchemy
-- Model Loading and Saving Library: Pickle
-- Web App and Data Visualization: Flask, Plotly
 
 # Installation
 To clone the git repository:
@@ -45,6 +37,8 @@ Run the following command in the app's directory to run your web app-
 - python run.py
 
 Open a browser and go to http://0.0.0.0:3001/. You can input any message and see the results.
+
+![](img1.PNG)
 
 # Notebooks
 
