@@ -38,6 +38,7 @@ Run the following command in the app's directory to run your web app-
 
 Open a browser and go to http://0.0.0.0:3001/. You can input any message and see the results.
 
+![](img2.PNG)
 ![](img1.PNG)
 
 # Notebooks
