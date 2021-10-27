@@ -14,15 +14,25 @@ This project is divided in 3 sections:
 
 
 pandas
+
 re
+
 sys
+
 json
+
 sklearn
+
 nltk
+
 sqlalchemy
+
 pickle
+
 Flask
+
 plotly
+
 sqlite3
 
 # Running the application
