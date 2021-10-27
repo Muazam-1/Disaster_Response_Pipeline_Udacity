@@ -10,6 +10,20 @@ This project is divided in 3 sections:
 2. Build a machine learning pipeline that can classify tweet text messages into 36 different categories.
 3. Running a web application which can show model results in real time.
 
+# Installation
+
+
+pandas
+re
+sys
+json
+sklearn
+nltk
+sqlalchemy
+pickle
+Flask
+plotly
+sqlite3
 
 # Running the application
 
